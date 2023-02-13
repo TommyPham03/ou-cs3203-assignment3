@@ -13,9 +13,15 @@ public class main extends methodArray{
 		array[3] = 1;
 		array[4] = 3;
 		
+		//add
 		System.out.println(arrayAdd(array));
+		//multiply
 		System.out.println(arrayMulti(array));
 		
+<<<<<<< HEAD
+=======
+		//reverse
+>>>>>>> bb33492 (add comments)
 		System.out.println(Arrays.toString(reverse(array)));
 
 	}
