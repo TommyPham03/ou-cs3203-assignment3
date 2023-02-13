@@ -24,11 +24,7 @@ public static int arrayMulti(int array[]) {
 }
 
 public static int [] reverse(int array[]) {
-<<<<<<< HEAD
-	//int [] arrays = new int [array.length];
-=======
 
->>>>>>> bb33492 (add comments)
 	
 	 for(int i=0; i<array.length/2; i++){
          int temp = array[i];

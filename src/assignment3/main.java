@@ -18,10 +18,7 @@ public class main extends methodArray{
 		//multiply
 		System.out.println(arrayMulti(array));
 		
-<<<<<<< HEAD
-=======
 		//reverse
->>>>>>> bb33492 (add comments)
 		System.out.println(Arrays.toString(reverse(array)));
 
 	}
